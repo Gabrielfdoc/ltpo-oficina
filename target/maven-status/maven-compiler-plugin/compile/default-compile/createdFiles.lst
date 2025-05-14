@@ -1,0 +1,8 @@
+com\ltpo\DAO\AutomovelDAO.class
+com\ltpo\DAO\ModeloDAO.class
+com\ltpo\Main.class
+com\ltpo\model\Automovel.class
+com\ltpo\model\Usuarios.class
+com\ltpo\DAO\UsuariosDAO.class
+com\ltpo\model\Modelo.class
+com\ltpo\model\Usuarios$TipoUsuario.class
