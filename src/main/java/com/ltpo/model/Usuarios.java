@@ -1,6 +1,6 @@
 package com.ltpo.model;
 
-import com.ltpo.enums.TipoUsuario; // Importando o enum do pacote enums
+import com.ltpo.enums.TipoUsuario;
 import javax.persistence.*;
 import java.util.List;
 
